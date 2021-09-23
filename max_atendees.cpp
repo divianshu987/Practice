@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+#define int long long
 void code() {
 #ifndef ONLINE_JUDGE
     freopen("input.txt", "r", stdin);
